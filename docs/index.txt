@@ -1,0 +1,23 @@
+# Índice de la Documentación
+
+## 1. Introducción
+   - Objetivo del proyecto.
+   - Beneficios y funcionalidades.
+
+## 2. Instalación y Configuración
+   - Requisitos previos.
+   - Instalación de Python.
+   - Clonación del repositorio desde GitHub.
+
+## 3. Uso del Proyecto
+   - Ejecución del código (`main.py`).
+   - Ejemplo de entrada y salida.
+
+## 4. Control de Versiones
+   - Creación del repositorio en GitHub.
+   - Flujo de trabajo con Git (commit, push, pull).
+   - Creación y fusión de ramas.
+
+## 5. Desarrollo y Colaboración
+   - Buenas prácticas en desarrollo.
+   - Cómo contribuir al código.
