@@ -29,5 +29,14 @@ def calcularMonto():
     
     interesesfab = (creditoFabrcte*20)/100
     totalCredFab = creditoFabrcte + interesesfab
-  
+    
+    print("\nResumen de la compra:")
+    print(f"Número de piezas a comprar: {npiezas}")
+    print(f"Precio unitario de cada pieza: ${precioUni}")
+    print(f"Monto total de la compra: ${montoTotal}")
+    print(f"Inversión de la empresa: ${inversionEmpresa}")
+    print(f"Préstamo al banco: ${prestamoBanco}")
+    print(f"Crédito al fabricante (con intereses): ${totalCredFab}")
+    
+calcularMonto()
 
