@@ -21,3 +21,6 @@
 ## 5. Desarrollo y Colaboración
    - Buenas prácticas en desarrollo.
    - Cómo contribuir al código.
+
+## 6. Créditos y Licencia
+   - Autor Jhinet Bohorquez del proyecto.
