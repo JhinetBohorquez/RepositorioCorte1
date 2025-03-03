@@ -12,8 +12,6 @@ Cada orden de compra que realiza el cliente siempre es de varias unidades de una
 El proyecto final debe mostrar número de piezas a comprar, precio unitario de cada pieza, monto total de la compra,
 inversión de la empresa, préstamo al banco y crédito al fabricante sumando el 20% que cobra de interés. 
 """
-#Realizo el algoritmo:  JHINET ALEJANDRA BOHORQUEZ
-
 def calcularMonto():
     npiezas = int(input("ingrese el numero de piezas a comprar: "))
     precioUni = float(input("ingrese el valor unitario por pieza:"))
@@ -41,5 +39,4 @@ def calcularMonto():
     print(f"Crédito al fabricante (con intereses): ${totalCredFab}")
     
 calcularMonto()
-
 
