@@ -1,0 +1,23 @@
+# Configuración del Proyecto
+
+## Parámetros de entrada
+- Número de piezas: Debe ser un número entero positivo.
+- Precio unitario: Debe ser un número decimal positivo.
+
+## Lógica de cálculo
+- Si el monto total de la compra supera $500,000:
+  - Inversión de la empresa: 55% del monto total.
+  - Préstamo bancario: 30% del monto total.
+  - Crédito al fabricante: 15% del monto total + 20% de intereses.
+
+- Si el monto total de la compra es menor o igual a $500,000:
+  - Inversión de la empresa: 70% del monto total.
+  - Crédito al fabricante: 30% del monto total + 20% de intereses.
+
+## Configuración de Git
+- Se utiliza Git para el control de versiones.
+- Se recomienda trabajar con ramas para desarrollo y producción.
+- Se deben escribir commits con mensajes descriptivos.
+- El repositorio debe alojarse en GitHub.
+
+
